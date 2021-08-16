@@ -41,7 +41,9 @@ This model is by far giving us the best recall towards high risk credits. There 
 
 
 ### Summary: 
-Although we have high sensitivity(recall) in our models for High Risk transactions but precision is very low hence we see a drop in F1 score. However, in comparision to all the algorithms, Easy Ensemble Classifier gave the best precision and highest recall for high risk credits. Easy Ensemble Classifier is very good if the requirement is to be more sensitive towards high risk transactions.
+Although we have high sensitivity(recall) in our models for High Risk transactions but precision is very low hence we see a drop in F1 score. 
+
+In comparision to all the algorithms, Easy Ensemble Classifier gave the best precision and highest recall for high risk credits. Easy Ensemble Classifier is very good if the requirement is to be more sensitive towards high risk transactions. However, if we want high precision for high risk credits, then none of these models are very useful.
 
 
 
